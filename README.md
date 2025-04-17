@@ -61,5 +61,5 @@ We use the `digits` dataset from `sklearn.datasets`, which consists of:
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/knn-vs-kmeans.git
+   git clone [https://github.com/yourusername/knn-vs-kmeans.git](https://github.com/Shuaibiqbal/KNN-vs-KMeans-Supervised-vs-Unsupervised-ML-Explained-with-Code
    cd knn-vs-kmeans
